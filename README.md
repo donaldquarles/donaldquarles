@@ -26,7 +26,7 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 
 | Name | Description |
 |------|-------------|
-| [Daily Reddit Digest](usecases/daily-reddit-digest.md) | Summarize a curated digest of your favourite subreddits, based on your preferences. |
+| [Daily Reddit Digest](uhttps://github.com/hesamsheikh/awesome-openclaw-usecases/blob/main/usecases/daily-reddit-digest.md) | Summarize a curated digest of your favourite subreddits, based on your preferences. |
 | [Daily YouTube Digest](usecases/daily-youtube-digest.md) | Get daily summaries of new videos from your favorite channels — never miss content from creators you follow. |
 | [X Account Analysis](usecases/x-account-analysis.md) | Get a qualitative analysis of your X account.|
 | [Multi-Source Tech News Digest](usecases/multi-source-tech-news-digest.md) | Automatically aggregate and deliver quality-scored tech news from 109+ sources (RSS, Twitter/X, GitHub, web search) via natural language. |
